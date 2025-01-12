@@ -36,5 +36,5 @@ This is a simple chat application built using Java's networking and multithreadi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simple-chat-app.git
+   git clone https://github.com/dostonbekqosimo/simple-chat-app.git
    cd simple-chat-app
